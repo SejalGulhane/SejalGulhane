@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SejalGulhane
 - 👀 I’m interested in Cybersecurity 
 - 🌱 I’m currently learning in Tata Strive 
-- 💞️ I’m looking to collaborate on Linked in , Github 
+
 
 
 <!---
